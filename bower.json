@@ -1,0 +1,21 @@
+{
+  "name": "slider.js",
+  "version": "1.0.1",
+  "authors": [
+    "Jihann <1244098192@qq.com>"
+  ],
+  "description": "js滑动特效",
+  "main": "slider.js",
+  "keywords": [
+    "js",
+    "slider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
